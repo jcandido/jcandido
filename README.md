@@ -2,7 +2,7 @@
 - 👀 Me interesso por desenvolvimento Web, ferramentas para computação em nuvem, Data Sciense e DevOps.
 - 🌱 No momento estou estudando Python, PHP, Scrum e IBM Cloud.
 -    Atualmente trabalho com Consultoria, Implantação e Treinamento do Sistema de Gestão Empresarial Bling ERP. Também desenvolvo sites.
-- 📫 Para contatos envie e-mail para jcandido.filho@gmail.com
+- 📫 Para contatos envie e-mail para jcandido.filho@proton.me
 
 <!---
 jcandido/jcandido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
